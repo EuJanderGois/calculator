@@ -2,6 +2,8 @@
 
 Projeto iniciado em 06/04/2023
 
+Primeiro Commit em 14/04/2023 na versão 1.0.14, em funcionamento e pequenas adições e correções a serem feitas, podendo ser considerada a versão final.
+
 ## Objetivos
 
 - Fixar conhecimentos
@@ -12,8 +14,10 @@ Projeto iniciado em 06/04/2023
 
 - JavaScript
 - NodeJS
-- webpackJS
-- BabelJS
+- Webpack
+- Babel
+- Nodemon
+- Git & GitHub
 
 ## Descrição
 
@@ -26,6 +30,20 @@ Public: Estilização (CSS) e marcação web (HTML), assim como imagens estão a
 Source: Lógica e implementação de funcionalidades de código em ambiente de desenvolvimento na pasta "src".
 
 Dist: Arquivos de distribuição otimizados e prontos pra implementação web com alta compatibilidade com maior numero de navegadores possiveis na pasta "dist".
+
+## Considerações Finais
+
+A aplicação foi desenvolvida sem maiores problemas e atualmente está funcionando sem apresentar bugs ou problemas de funcionamento.
+
+As tecnologias e processos utilizados no desenvolvimento permitiram uma aplicação leve, limpa e com possibilidade de fácil compreensão do código.
+
+Muitos conhecimentos foram adquiridos ao longo do desenvolvimento e desafios reais surgiram. Dentre os principais conhecimentos adquiridos estão:
+
+- Organização
+- Compreensão por diferentes perspectivas
+- Solução de Problemas
+- Documentação
+- Otimização
 
 ## Licença GPL-3.0-only
 

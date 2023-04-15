@@ -1,6 +1,6 @@
 {
-  "name": "cauculadora",
-  "version": "1.0.0",
+  "name": "calculator",
+  "version": "1.0.14",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "dev": "nodemon --exec \"yarn build \" "
   },
   "keywords": [],
-  "author": "",
+  "author": "@eujandergois",
   "license": "GPL-3.0-only",
   "devDependencies": {
     "@babel/core": "^7.21.4",
